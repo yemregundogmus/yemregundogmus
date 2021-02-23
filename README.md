@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**Summarify**](https://summarify.io/) & [**Koçfinans**](https://kocfinans.com.tr/)
 
-- 📹 I teach courses on web scraping, ml in finance, end-to-end ml on [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](http://youtube.com/c/kavetr)
+- 📹 I teach courses on web scraping, ml in finance, end-to-end ml at [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](http://youtube.com/c/kavetr)
 
 - 🌱 I’m currently learning **MLOps**, **Agent Based Modelling**, **NLP with Transformers**
 
