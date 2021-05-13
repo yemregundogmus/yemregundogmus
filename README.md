@@ -21,5 +21,8 @@
 - [Python ile Sesli Asistan Oluşturmak](https://www.linkedin.com/pulse/pythonda-sesli-asistan-olu%C5%9Fturmak-yunus-emre-g%C3%BCndo%C4%9Fmu%C5%9F/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Bva7QT4W5TrOX5uNSCqUyEw%3D%3D)
 - [Python'da Majority Vote (Topluluk Oylaması) ile Müşteri Kayıp(Churn) Analizi](https://www.linkedin.com/pulse/pythonda-majority-vote-topluluk-oylamas%C4%B1-ile-m%C3%BC%C5%9Fteri-g%C3%BCndo%C4%9Fmu%C5%9F/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Bva7QT4W5TrOX5uNSCqUyEw%3D%3D)
 
-[![Github Stat](https://github-readme-stats.vercel.app/api?username=yemregundogmus&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
+<a href="https://github.com/yemregundogmus">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yemregundogmus&show_icons=true&locale=en&theme=default &include_all_commits=true&count_private=true" alt="yemregundogmus"/>
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemregundogmus&show_icons=true&locale=en&layout=compact&langs_count=8&theme=default" alt="yemregundogmus"/>
+
 
