@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Yunus Emre</h1>
 <h3 align="center">A passionate developer about AI, Computational Social Science</h3>
 
-- 🔭 I’m currently working on [**Summarify**](https://summarify.io/) & [**Koçfinans**](https://kocfinans.com.tr/)
+- 🔭 I’m currently working on [**Summarify**](https://summarify.io/) & [**Hepsiburada**](https://www.hepsiburada.com/)
 
 - 📹 I teach courses on web scraping, ml in finance, end-to-end ml at [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](http://youtube.com/c/kavetr)
 
