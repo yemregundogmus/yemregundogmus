@@ -5,7 +5,7 @@
 
 - 📹 I teach courses on web scraping, ml in finance, end-to-end ml at [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](http://youtube.com/c/kavetr)
 
-- 🌱 I’m currently learning **MLOps**, **Agent Based Modelling**, **NLP with Transformers**
+- 🌱 I’m currently learning **MLOps**, **Social Media Analysis**, **NLP with Transformers**
 
 - 📝 I regulary write articles on [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](https://medium.com/kaveai)
 
