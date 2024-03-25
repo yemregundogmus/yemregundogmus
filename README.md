@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Yunus Emre</h1>
-<h3 align="center">A passionate developer about AI, Computational Social Science</h3>
+<h3 align="center">A passionate developer about Data Science, ML Application Development</h3>
 
 - 🔭 I’m currently working on [**Summarify**](https://summarify.io/) & [**Hepsiburada**](https://www.hepsiburada.com/)
 
 - 📹 I teach courses on web scraping, mlops, social media analysis at [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](http://youtube.com/c/kavetr)
 
-- 🌱 I’m currently learning **Scalable Architecture Design**, **Kubernetes**, **Kafka**
+- 🌱 I’m currently learning **Scalable Architecture Design**, **LLMOps**, **Kubernetes**
 
 - 📝 I regulary write articles on [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](https://medium.com/kaveai)
 
